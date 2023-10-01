@@ -1,5 +1,3 @@
-package main.java;
-
 import okhttp3.HttpUrl;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
@@ -12,8 +10,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class CoreDB {
-
-    private static final String API_TOKEN = System.getenv("gauLY1I9Himz3kJOxdhpQEv52q0lP4BW");
 
     public static String[] findJournal(String content, String entityType) throws IOException {
         OkHttpClient client = new OkHttpClient().newBuilder()
