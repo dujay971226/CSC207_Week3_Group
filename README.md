@@ -36,7 +36,7 @@ Resource API Documentation: https://api.core.ac.uk/docs/v3
 ## Technical Challenges
 We have encountered the following technical challenges that are currently hindering our progress:
 
-1. Finding suitable APIs: We found that some good APIs are not available in IntelliJ.
-
-2. Use of APIs: Unskilled use of APIs leads to difficulties in selecting and applying APIs.
+1. Learn to use Javascript and JSON Files.
+2. Finding suitable APIs: We found that some good APIs are not available in IntelliJ.
+3. Use of APIs: Unskilled use of APIs leads to difficulties in selecting and applying APIs.
 
